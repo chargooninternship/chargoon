@@ -29,3 +29,8 @@ let key = prompt("What do you want to know about the user?", "name");
 // access by variable
 alert( user[key] ); // John (if enter "name")
 `
+### Computed properties 
+
+1. We can use square brackets in an object literal, when creating an object. That’s called computed properties.
+
+2.
